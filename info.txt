@@ -1,0 +1,7 @@
+# User configuration file for Discord Auto Messenger
+# Please fill in your User-ID, Discord token, Discord channel URL, and Discord channel ID each on a new line
+# Example:
+# 123456789012345678
+# mfa.xxxxxxx.yyyyyyy.zzzzzzzz
+# https://discord.com/channels/123456789012345678/987654321098765432
+# 987654321098765432
